@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{737E115F-FD42-4479-96FC-797B2C609F5F}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ApplicationFile.BLL</RootNamespace>
+    <AssemblyName>ApplicationFile.BLL</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Base\Manager.cs" />
+    <Compile Include="CatagoryManager.cs" />
+    <Compile Include="PostManager.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ApplicationFile.Model\DoinikSokal.Model.csproj">
+      <Project>{799a5029-57cc-4722-8f19-a0c293281dca}</Project>
+      <Name>DoinikSokal.Model</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ApplicationFile.Repository\DoinikSokal.Repository.csproj">
+      <Project>{2cffb967-d1bd-41a1-8f40-e46292fa24dd}</Project>
+      <Name>DoinikSokal.Repository</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DoinikSokal.BLL.Contracts\DoinikSokal.BLL.Contracts.csproj">
+      <Project>{C3319B39-0F62-4FE5-BE4F-973F6B30C8BD}</Project>
+      <Name>DoinikSokal.BLL.Contracts</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DoinikSokal.Model.Contracts\DoinikSokal.Model.Contracts.csproj">
+      <Project>{9766E456-72C4-44F0-97A8-FE648849DB30}</Project>
+      <Name>DoinikSokal.Model.Contracts</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DoinikSokal.Repository.Contracts\DoinikSokal.Repository.Contracts.csproj">
+      <Project>{7D387362-16DB-4C41-BD3F-48DC7D24C099}</Project>
+      <Name>DoinikSokal.Repository.Contracts</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

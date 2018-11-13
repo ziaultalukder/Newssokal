@@ -1,0 +1,34 @@
+C:\Users\Ziaul\Desktop\New folder\ApplicationFile\ApplicationFile.BLL\bin\Debug\ApplicationFile.BLL.dll
+C:\Users\Ziaul\Desktop\New folder\ApplicationFile\ApplicationFile.BLL\bin\Debug\ApplicationFile.BLL.pdb
+C:\Users\Ziaul\Desktop\New folder\ApplicationFile\ApplicationFile.BLL\bin\Debug\ApplicationFile.Model.dll
+C:\Users\Ziaul\Desktop\New folder\ApplicationFile\ApplicationFile.BLL\bin\Debug\ApplicationFile.Repository.dll
+C:\Users\Ziaul\Desktop\New folder\ApplicationFile\ApplicationFile.BLL\bin\Debug\DoinikSokal.Model.Contracts.dll
+C:\Users\Ziaul\Desktop\New folder\ApplicationFile\ApplicationFile.BLL\bin\Debug\EntityFramework.dll
+C:\Users\Ziaul\Desktop\New folder\ApplicationFile\ApplicationFile.BLL\bin\Debug\ApplicationFile.Model.pdb
+C:\Users\Ziaul\Desktop\New folder\ApplicationFile\ApplicationFile.BLL\bin\Debug\ApplicationFile.Repository.pdb
+C:\Users\Ziaul\Desktop\New folder\ApplicationFile\ApplicationFile.BLL\bin\Debug\DoinikSokal.Model.Contracts.pdb
+C:\Users\Ziaul\Desktop\New folder\ApplicationFile\ApplicationFile.BLL\bin\Debug\EntityFramework.xml
+C:\Users\Ziaul\Desktop\New folder\ApplicationFile\ApplicationFile.BLL\obj\Debug\DoinikSokal.BLL.csprojResolveAssemblyReference.cache
+C:\Users\Ziaul\Desktop\New folder\ApplicationFile\ApplicationFile.BLL\obj\Debug\ApplicationFile.BLL.dll
+C:\Users\Ziaul\Desktop\New folder\ApplicationFile\ApplicationFile.BLL\obj\Debug\ApplicationFile.BLL.pdb
+C:\Users\Ziaul\Desktop\New folder\ApplicationFile\ApplicationFile.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ziaul\Desktop\New folder\ApplicationFile\ApplicationFile.BLL\bin\Debug\EntityFramework.SqlServer.xml
+E:\DoinikSokal\ApplicationFile.BLL\bin\Debug\ApplicationFile.BLL.dll
+E:\DoinikSokal\ApplicationFile.BLL\bin\Debug\ApplicationFile.BLL.pdb
+E:\DoinikSokal\ApplicationFile.BLL\bin\Debug\ApplicationFile.Model.dll
+E:\DoinikSokal\ApplicationFile.BLL\bin\Debug\ApplicationFile.Repository.dll
+E:\DoinikSokal\ApplicationFile.BLL\bin\Debug\DoinikSokal.Model.Contracts.dll
+E:\DoinikSokal\ApplicationFile.BLL\bin\Debug\EntityFramework.dll
+E:\DoinikSokal\ApplicationFile.BLL\bin\Debug\EntityFramework.SqlServer.dll
+E:\DoinikSokal\ApplicationFile.BLL\bin\Debug\ApplicationFile.Model.pdb
+E:\DoinikSokal\ApplicationFile.BLL\bin\Debug\ApplicationFile.Repository.pdb
+E:\DoinikSokal\ApplicationFile.BLL\bin\Debug\DoinikSokal.Model.Contracts.pdb
+E:\DoinikSokal\ApplicationFile.BLL\bin\Debug\EntityFramework.xml
+E:\DoinikSokal\ApplicationFile.BLL\bin\Debug\EntityFramework.SqlServer.xml
+E:\DoinikSokal\ApplicationFile.BLL\obj\Debug\DoinikSokal.BLL.csprojResolveAssemblyReference.cache
+E:\DoinikSokal\ApplicationFile.BLL\obj\Debug\ApplicationFile.BLL.dll
+E:\DoinikSokal\ApplicationFile.BLL\obj\Debug\ApplicationFile.BLL.pdb
+E:\DoinikSokal\ApplicationFile.BLL\bin\Debug\DoinikSokal.Repository.Contracts.dll
+E:\DoinikSokal\ApplicationFile.BLL\bin\Debug\DoinikSokal.Repository.Contracts.pdb
+E:\DoinikSokal\ApplicationFile.BLL\bin\Debug\DoinikSokal.BLL.Contracts.dll
+E:\DoinikSokal\ApplicationFile.BLL\bin\Debug\DoinikSokal.BLL.Contracts.pdb

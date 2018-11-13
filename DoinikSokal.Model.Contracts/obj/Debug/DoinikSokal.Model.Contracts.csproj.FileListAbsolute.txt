@@ -1,0 +1,8 @@
+C:\Users\Ziaul\Desktop\New folder\ApplicationFile\DoinikSokal.Model.Contracts\bin\Debug\DoinikSokal.Model.Contracts.dll
+C:\Users\Ziaul\Desktop\New folder\ApplicationFile\DoinikSokal.Model.Contracts\bin\Debug\DoinikSokal.Model.Contracts.pdb
+C:\Users\Ziaul\Desktop\New folder\ApplicationFile\DoinikSokal.Model.Contracts\obj\Debug\DoinikSokal.Model.Contracts.dll
+C:\Users\Ziaul\Desktop\New folder\ApplicationFile\DoinikSokal.Model.Contracts\obj\Debug\DoinikSokal.Model.Contracts.pdb
+E:\DoinikSokal\DoinikSokal.Model.Contracts\bin\Debug\DoinikSokal.Model.Contracts.dll
+E:\DoinikSokal\DoinikSokal.Model.Contracts\bin\Debug\DoinikSokal.Model.Contracts.pdb
+E:\DoinikSokal\DoinikSokal.Model.Contracts\obj\Debug\DoinikSokal.Model.Contracts.dll
+E:\DoinikSokal\DoinikSokal.Model.Contracts\obj\Debug\DoinikSokal.Model.Contracts.pdb

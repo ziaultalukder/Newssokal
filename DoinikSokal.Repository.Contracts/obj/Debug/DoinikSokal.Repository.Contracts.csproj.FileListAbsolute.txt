@@ -1,0 +1,9 @@
+E:\DoinikSokal\DoinikSokal.Repository.Contracts\bin\Debug\DoinikSokal.Repository.Contracts.dll
+E:\DoinikSokal\DoinikSokal.Repository.Contracts\bin\Debug\DoinikSokal.Repository.Contracts.pdb
+E:\DoinikSokal\DoinikSokal.Repository.Contracts\bin\Debug\ApplicationFile.Model.dll
+E:\DoinikSokal\DoinikSokal.Repository.Contracts\bin\Debug\DoinikSokal.Model.Contracts.dll
+E:\DoinikSokal\DoinikSokal.Repository.Contracts\bin\Debug\ApplicationFile.Model.pdb
+E:\DoinikSokal\DoinikSokal.Repository.Contracts\bin\Debug\DoinikSokal.Model.Contracts.pdb
+E:\DoinikSokal\DoinikSokal.Repository.Contracts\obj\Debug\DoinikSokal.Repository.Contracts.csprojResolveAssemblyReference.cache
+E:\DoinikSokal\DoinikSokal.Repository.Contracts\obj\Debug\DoinikSokal.Repository.Contracts.dll
+E:\DoinikSokal\DoinikSokal.Repository.Contracts\obj\Debug\DoinikSokal.Repository.Contracts.pdb

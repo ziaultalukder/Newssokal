@@ -1,0 +1,139 @@
+C:\Users\Ziaul\Desktop\New folder\ApplicationFile\ApplicationFile\bin\ApplicationInsights.config
+C:\Users\Ziaul\Desktop\New folder\ApplicationFile\ApplicationFile\bin\roslyn\csc.exe
+C:\Users\Ziaul\Desktop\New folder\ApplicationFile\ApplicationFile\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ziaul\Desktop\New folder\ApplicationFile\ApplicationFile\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ziaul\Desktop\New folder\ApplicationFile\ApplicationFile\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ziaul\Desktop\New folder\ApplicationFile\ApplicationFile\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ziaul\Desktop\New folder\ApplicationFile\ApplicationFile\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ziaul\Desktop\New folder\ApplicationFile\ApplicationFile\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ziaul\Desktop\New folder\ApplicationFile\ApplicationFile\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ziaul\Desktop\New folder\ApplicationFile\ApplicationFile\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ziaul\Desktop\New folder\ApplicationFile\ApplicationFile\bin\roslyn\vbc.exe
+C:\Users\Ziaul\Desktop\New folder\ApplicationFile\ApplicationFile\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ziaul\Desktop\New folder\ApplicationFile\ApplicationFile\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ziaul\Desktop\New folder\ApplicationFile\ApplicationFile\bin\ApplicationFile.dll.config
+C:\Users\Ziaul\Desktop\New folder\ApplicationFile\ApplicationFile\bin\ApplicationFile.dll
+C:\Users\Ziaul\Desktop\New folder\ApplicationFile\ApplicationFile\bin\ApplicationFile.pdb
+C:\Users\Ziaul\Desktop\New folder\ApplicationFile\ApplicationFile\bin\Antlr3.Runtime.dll
+C:\Users\Ziaul\Desktop\New folder\ApplicationFile\ApplicationFile\bin\ApplicationFile.BLL.dll
+C:\Users\Ziaul\Desktop\New folder\ApplicationFile\ApplicationFile\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Ziaul\Desktop\New folder\ApplicationFile\ApplicationFile\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Ziaul\Desktop\New folder\ApplicationFile\ApplicationFile\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Ziaul\Desktop\New folder\ApplicationFile\ApplicationFile\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Ziaul\Desktop\New folder\ApplicationFile\ApplicationFile\bin\Microsoft.AI.Web.dll
+C:\Users\Ziaul\Desktop\New folder\ApplicationFile\ApplicationFile\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Ziaul\Desktop\New folder\ApplicationFile\ApplicationFile\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Ziaul\Desktop\New folder\ApplicationFile\ApplicationFile\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ziaul\Desktop\New folder\ApplicationFile\ApplicationFile\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ziaul\Desktop\New folder\ApplicationFile\ApplicationFile\bin\Newtonsoft.Json.dll
+C:\Users\Ziaul\Desktop\New folder\ApplicationFile\ApplicationFile\bin\System.Web.Helpers.dll
+C:\Users\Ziaul\Desktop\New folder\ApplicationFile\ApplicationFile\bin\System.Web.Mvc.dll
+C:\Users\Ziaul\Desktop\New folder\ApplicationFile\ApplicationFile\bin\System.Web.Optimization.dll
+C:\Users\Ziaul\Desktop\New folder\ApplicationFile\ApplicationFile\bin\System.Web.Razor.dll
+C:\Users\Ziaul\Desktop\New folder\ApplicationFile\ApplicationFile\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ziaul\Desktop\New folder\ApplicationFile\ApplicationFile\bin\System.Web.WebPages.dll
+C:\Users\Ziaul\Desktop\New folder\ApplicationFile\ApplicationFile\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ziaul\Desktop\New folder\ApplicationFile\ApplicationFile\bin\WebGrease.dll
+C:\Users\Ziaul\Desktop\New folder\ApplicationFile\ApplicationFile\bin\ApplicationFile.Model.dll
+C:\Users\Ziaul\Desktop\New folder\ApplicationFile\ApplicationFile\bin\ApplicationFile.Repository.dll
+C:\Users\Ziaul\Desktop\New folder\ApplicationFile\ApplicationFile\bin\DoinikSokal.Model.Contracts.dll
+C:\Users\Ziaul\Desktop\New folder\ApplicationFile\ApplicationFile\bin\EntityFramework.dll
+C:\Users\Ziaul\Desktop\New folder\ApplicationFile\ApplicationFile\bin\ApplicationFile.BLL.pdb
+C:\Users\Ziaul\Desktop\New folder\ApplicationFile\ApplicationFile\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Ziaul\Desktop\New folder\ApplicationFile\ApplicationFile\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Ziaul\Desktop\New folder\ApplicationFile\ApplicationFile\bin\Microsoft.AI.Web.xml
+C:\Users\Ziaul\Desktop\New folder\ApplicationFile\ApplicationFile\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Ziaul\Desktop\New folder\ApplicationFile\ApplicationFile\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Ziaul\Desktop\New folder\ApplicationFile\ApplicationFile\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ziaul\Desktop\New folder\ApplicationFile\ApplicationFile\bin\System.Web.Helpers.xml
+C:\Users\Ziaul\Desktop\New folder\ApplicationFile\ApplicationFile\bin\System.Web.Mvc.xml
+C:\Users\Ziaul\Desktop\New folder\ApplicationFile\ApplicationFile\bin\System.Web.Optimization.xml
+C:\Users\Ziaul\Desktop\New folder\ApplicationFile\ApplicationFile\bin\System.Web.Razor.xml
+C:\Users\Ziaul\Desktop\New folder\ApplicationFile\ApplicationFile\bin\System.Web.WebPages.xml
+C:\Users\Ziaul\Desktop\New folder\ApplicationFile\ApplicationFile\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ziaul\Desktop\New folder\ApplicationFile\ApplicationFile\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ziaul\Desktop\New folder\ApplicationFile\ApplicationFile\bin\Antlr3.Runtime.pdb
+C:\Users\Ziaul\Desktop\New folder\ApplicationFile\ApplicationFile\bin\Newtonsoft.Json.xml
+C:\Users\Ziaul\Desktop\New folder\ApplicationFile\ApplicationFile\bin\ApplicationFile.Model.pdb
+C:\Users\Ziaul\Desktop\New folder\ApplicationFile\ApplicationFile\bin\ApplicationFile.Repository.pdb
+C:\Users\Ziaul\Desktop\New folder\ApplicationFile\ApplicationFile\bin\DoinikSokal.Model.Contracts.pdb
+C:\Users\Ziaul\Desktop\New folder\ApplicationFile\ApplicationFile\bin\EntityFramework.xml
+C:\Users\Ziaul\Desktop\New folder\ApplicationFile\ApplicationFile\obj\Debug\DoinikSokal.csprojResolveAssemblyReference.cache
+C:\Users\Ziaul\Desktop\New folder\ApplicationFile\ApplicationFile\obj\Debug\ApplicationFile.dll
+C:\Users\Ziaul\Desktop\New folder\ApplicationFile\ApplicationFile\obj\Debug\ApplicationFile.pdb
+C:\Users\Ziaul\Desktop\New folder\ApplicationFile\ApplicationFile\bin\EntityFramework.SqlServer.dll
+C:\Users\Ziaul\Desktop\New folder\ApplicationFile\ApplicationFile\bin\EntityFramework.SqlServer.xml
+E:\DoinikSokal\ApplicationFile\bin\ApplicationInsights.config
+E:\DoinikSokal\ApplicationFile\bin\roslyn\csc.exe
+E:\DoinikSokal\ApplicationFile\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\DoinikSokal\ApplicationFile\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\DoinikSokal\ApplicationFile\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\DoinikSokal\ApplicationFile\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\DoinikSokal\ApplicationFile\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\DoinikSokal\ApplicationFile\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\DoinikSokal\ApplicationFile\bin\roslyn\System.Collections.Immutable.dll
+E:\DoinikSokal\ApplicationFile\bin\roslyn\System.Reflection.Metadata.dll
+E:\DoinikSokal\ApplicationFile\bin\roslyn\vbc.exe
+E:\DoinikSokal\ApplicationFile\bin\roslyn\VBCSCompiler.exe
+E:\DoinikSokal\ApplicationFile\bin\roslyn\VBCSCompiler.exe.config
+E:\DoinikSokal\ApplicationFile\bin\ApplicationFile.dll.config
+E:\DoinikSokal\ApplicationFile\bin\ApplicationFile.dll
+E:\DoinikSokal\ApplicationFile\bin\ApplicationFile.pdb
+E:\DoinikSokal\ApplicationFile\bin\Antlr3.Runtime.dll
+E:\DoinikSokal\ApplicationFile\bin\ApplicationFile.BLL.dll
+E:\DoinikSokal\ApplicationFile\bin\ApplicationFile.Model.dll
+E:\DoinikSokal\ApplicationFile\bin\DoinikSokal.Model.Contracts.dll
+E:\DoinikSokal\ApplicationFile\bin\Microsoft.AI.Agent.Intercept.dll
+E:\DoinikSokal\ApplicationFile\bin\Microsoft.AI.DependencyCollector.dll
+E:\DoinikSokal\ApplicationFile\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\DoinikSokal\ApplicationFile\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\DoinikSokal\ApplicationFile\bin\Microsoft.AI.Web.dll
+E:\DoinikSokal\ApplicationFile\bin\Microsoft.AI.WindowsServer.dll
+E:\DoinikSokal\ApplicationFile\bin\Microsoft.ApplicationInsights.dll
+E:\DoinikSokal\ApplicationFile\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\DoinikSokal\ApplicationFile\bin\Microsoft.Web.Infrastructure.dll
+E:\DoinikSokal\ApplicationFile\bin\Newtonsoft.Json.dll
+E:\DoinikSokal\ApplicationFile\bin\System.Web.Helpers.dll
+E:\DoinikSokal\ApplicationFile\bin\System.Web.Mvc.dll
+E:\DoinikSokal\ApplicationFile\bin\System.Web.Optimization.dll
+E:\DoinikSokal\ApplicationFile\bin\System.Web.Razor.dll
+E:\DoinikSokal\ApplicationFile\bin\System.Web.WebPages.Deployment.dll
+E:\DoinikSokal\ApplicationFile\bin\System.Web.WebPages.dll
+E:\DoinikSokal\ApplicationFile\bin\System.Web.WebPages.Razor.dll
+E:\DoinikSokal\ApplicationFile\bin\WebGrease.dll
+E:\DoinikSokal\ApplicationFile\bin\ApplicationFile.Repository.dll
+E:\DoinikSokal\ApplicationFile\bin\EntityFramework.dll
+E:\DoinikSokal\ApplicationFile\bin\EntityFramework.SqlServer.dll
+E:\DoinikSokal\ApplicationFile\bin\ApplicationFile.BLL.pdb
+E:\DoinikSokal\ApplicationFile\bin\ApplicationFile.Model.pdb
+E:\DoinikSokal\ApplicationFile\bin\DoinikSokal.Model.Contracts.pdb
+E:\DoinikSokal\ApplicationFile\bin\Microsoft.AI.DependencyCollector.xml
+E:\DoinikSokal\ApplicationFile\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\DoinikSokal\ApplicationFile\bin\Microsoft.AI.Web.xml
+E:\DoinikSokal\ApplicationFile\bin\Microsoft.AI.WindowsServer.xml
+E:\DoinikSokal\ApplicationFile\bin\Microsoft.ApplicationInsights.xml
+E:\DoinikSokal\ApplicationFile\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\DoinikSokal\ApplicationFile\bin\System.Web.Helpers.xml
+E:\DoinikSokal\ApplicationFile\bin\System.Web.Mvc.xml
+E:\DoinikSokal\ApplicationFile\bin\System.Web.Optimization.xml
+E:\DoinikSokal\ApplicationFile\bin\System.Web.Razor.xml
+E:\DoinikSokal\ApplicationFile\bin\System.Web.WebPages.xml
+E:\DoinikSokal\ApplicationFile\bin\System.Web.WebPages.Deployment.xml
+E:\DoinikSokal\ApplicationFile\bin\System.Web.WebPages.Razor.xml
+E:\DoinikSokal\ApplicationFile\bin\Antlr3.Runtime.pdb
+E:\DoinikSokal\ApplicationFile\bin\Newtonsoft.Json.xml
+E:\DoinikSokal\ApplicationFile\bin\ApplicationFile.Repository.pdb
+E:\DoinikSokal\ApplicationFile\bin\EntityFramework.xml
+E:\DoinikSokal\ApplicationFile\bin\EntityFramework.SqlServer.xml
+E:\DoinikSokal\ApplicationFile\obj\Debug\DoinikSokal.csprojResolveAssemblyReference.cache
+E:\DoinikSokal\ApplicationFile\obj\Debug\ApplicationFile.dll
+E:\DoinikSokal\ApplicationFile\obj\Debug\ApplicationFile.pdb
+E:\DoinikSokal\ApplicationFile\bin\DoinikSokal.Repository.Contracts.dll
+E:\DoinikSokal\ApplicationFile\bin\DoinikSokal.Repository.Contracts.pdb
+E:\DoinikSokal\ApplicationFile\bin\DoinikSokal.BLL.Contracts.dll
+E:\DoinikSokal\ApplicationFile\bin\DoinikSokal.BLL.Contracts.pdb
+E:\DoinikSokal\ApplicationFile\bin\Unity.Abstractions.dll
+E:\DoinikSokal\ApplicationFile\bin\Unity.Container.dll
+E:\DoinikSokal\ApplicationFile\bin\Unity.Mvc.dll
+E:\DoinikSokal\ApplicationFile\bin\WebActivatorEx.dll
+E:\DoinikSokal\ApplicationFile\bin\Unity.Mvc.xml

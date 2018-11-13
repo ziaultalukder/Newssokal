@@ -1,0 +1,39 @@
+C:\Users\Ziaul\Desktop\New folder\ApplicationFile\ApplicationFile.Repository\bin\Debug\ApplicationFile.Repository.dll.config
+C:\Users\Ziaul\Desktop\New folder\ApplicationFile\ApplicationFile.Repository\bin\Debug\ApplicationFile.Repository.dll
+C:\Users\Ziaul\Desktop\New folder\ApplicationFile\ApplicationFile.Repository\bin\Debug\ApplicationFile.Repository.pdb
+C:\Users\Ziaul\Desktop\New folder\ApplicationFile\ApplicationFile.Repository\bin\Debug\ApplicationFile.Model.dll
+C:\Users\Ziaul\Desktop\New folder\ApplicationFile\ApplicationFile.Repository\bin\Debug\DoinikSokal.Model.Contracts.dll
+C:\Users\Ziaul\Desktop\New folder\ApplicationFile\ApplicationFile.Repository\bin\Debug\EntityFramework.dll
+C:\Users\Ziaul\Desktop\New folder\ApplicationFile\ApplicationFile.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ziaul\Desktop\New folder\ApplicationFile\ApplicationFile.Repository\bin\Debug\ApplicationFile.Model.pdb
+C:\Users\Ziaul\Desktop\New folder\ApplicationFile\ApplicationFile.Repository\bin\Debug\DoinikSokal.Model.Contracts.pdb
+C:\Users\Ziaul\Desktop\New folder\ApplicationFile\ApplicationFile.Repository\bin\Debug\EntityFramework.xml
+C:\Users\Ziaul\Desktop\New folder\ApplicationFile\ApplicationFile.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ziaul\Desktop\New folder\ApplicationFile\ApplicationFile.Repository\obj\Debug\DoinikSokal.Repository.csprojResolveAssemblyReference.cache
+C:\Users\Ziaul\Desktop\New folder\ApplicationFile\ApplicationFile.Repository\obj\Debug\ApplicationFile.Repository.dll
+C:\Users\Ziaul\Desktop\New folder\ApplicationFile\ApplicationFile.Repository\obj\Debug\ApplicationFile.Repository.pdb
+C:\Users\Ziaul\Desktop\New folder\ApplicationFile\ApplicationFile.Repository\obj\Debug\ApplicationFile.Repository.Migrations.CatagoryAdded.resources
+C:\Users\Ziaul\Desktop\New folder\ApplicationFile\ApplicationFile.Repository\obj\Debug\DoinikSokal.Repository.csproj.GenerateResource.Cache
+C:\Users\Ziaul\Desktop\New folder\ApplicationFile\ApplicationFile.Repository\obj\Debug\ApplicationFile.Repository.Migrations.PostTableAdded.resources
+E:\DoinikSokal\ApplicationFile.Repository\bin\Debug\ApplicationFile.Repository.dll.config
+E:\DoinikSokal\ApplicationFile.Repository\bin\Debug\ApplicationFile.Repository.dll
+E:\DoinikSokal\ApplicationFile.Repository\bin\Debug\ApplicationFile.Repository.pdb
+E:\DoinikSokal\ApplicationFile.Repository\bin\Debug\ApplicationFile.Model.dll
+E:\DoinikSokal\ApplicationFile.Repository\bin\Debug\DoinikSokal.Model.Contracts.dll
+E:\DoinikSokal\ApplicationFile.Repository\bin\Debug\DoinikSokal.Repository.Contracts.dll
+E:\DoinikSokal\ApplicationFile.Repository\bin\Debug\EntityFramework.dll
+E:\DoinikSokal\ApplicationFile.Repository\bin\Debug\EntityFramework.SqlServer.dll
+E:\DoinikSokal\ApplicationFile.Repository\bin\Debug\ApplicationFile.Model.pdb
+E:\DoinikSokal\ApplicationFile.Repository\bin\Debug\DoinikSokal.Model.Contracts.pdb
+E:\DoinikSokal\ApplicationFile.Repository\bin\Debug\DoinikSokal.Repository.Contracts.pdb
+E:\DoinikSokal\ApplicationFile.Repository\bin\Debug\EntityFramework.xml
+E:\DoinikSokal\ApplicationFile.Repository\bin\Debug\EntityFramework.SqlServer.xml
+E:\DoinikSokal\ApplicationFile.Repository\obj\Debug\DoinikSokal.Repository.csprojResolveAssemblyReference.cache
+E:\DoinikSokal\ApplicationFile.Repository\obj\Debug\ApplicationFile.Repository.Migrations.CatagoryAdded.resources
+E:\DoinikSokal\ApplicationFile.Repository\obj\Debug\ApplicationFile.Repository.Migrations.PostTableAdded.resources
+E:\DoinikSokal\ApplicationFile.Repository\obj\Debug\DoinikSokal.Repository.csproj.GenerateResource.Cache
+E:\DoinikSokal\ApplicationFile.Repository\obj\Debug\ApplicationFile.Repository.dll
+E:\DoinikSokal\ApplicationFile.Repository\obj\Debug\ApplicationFile.Repository.pdb
+E:\DoinikSokal\ApplicationFile.Repository\obj\Debug\ApplicationFile.Repository.Migrations.catagorytablechangeId.resources
+E:\DoinikSokal\ApplicationFile.Repository\obj\Debug\ApplicationFile.Repository.Migrations.catagoryModelChange.resources
+E:\DoinikSokal\ApplicationFile.Repository\obj\Debug\ApplicationFile.Repository.Migrations.categoryModelChaneCategoryIdNull.resources

@@ -1,0 +1,14 @@
+C:\Users\Ziaul\Desktop\New folder\ApplicationFile\ApplicationFile.Model\bin\Debug\ApplicationFile.Model.dll
+C:\Users\Ziaul\Desktop\New folder\ApplicationFile\ApplicationFile.Model\bin\Debug\ApplicationFile.Model.pdb
+C:\Users\Ziaul\Desktop\New folder\ApplicationFile\ApplicationFile.Model\bin\Debug\DoinikSokal.Model.Contracts.dll
+C:\Users\Ziaul\Desktop\New folder\ApplicationFile\ApplicationFile.Model\bin\Debug\DoinikSokal.Model.Contracts.pdb
+C:\Users\Ziaul\Desktop\New folder\ApplicationFile\ApplicationFile.Model\obj\Debug\DoinikSokal.Model.csprojResolveAssemblyReference.cache
+C:\Users\Ziaul\Desktop\New folder\ApplicationFile\ApplicationFile.Model\obj\Debug\ApplicationFile.Model.dll
+C:\Users\Ziaul\Desktop\New folder\ApplicationFile\ApplicationFile.Model\obj\Debug\ApplicationFile.Model.pdb
+E:\DoinikSokal\ApplicationFile.Model\bin\Debug\ApplicationFile.Model.dll
+E:\DoinikSokal\ApplicationFile.Model\bin\Debug\ApplicationFile.Model.pdb
+E:\DoinikSokal\ApplicationFile.Model\bin\Debug\DoinikSokal.Model.Contracts.dll
+E:\DoinikSokal\ApplicationFile.Model\bin\Debug\DoinikSokal.Model.Contracts.pdb
+E:\DoinikSokal\ApplicationFile.Model\obj\Debug\DoinikSokal.Model.csprojResolveAssemblyReference.cache
+E:\DoinikSokal\ApplicationFile.Model\obj\Debug\ApplicationFile.Model.dll
+E:\DoinikSokal\ApplicationFile.Model\obj\Debug\ApplicationFile.Model.pdb
